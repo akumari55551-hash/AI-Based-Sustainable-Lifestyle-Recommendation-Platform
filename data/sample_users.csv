@@ -1,0 +1,9 @@
+monthly_kwh,commute_km_week,fuel_type,diet_type,meat_frequency,flight_hours_year,waste_recycle_level,appliance_rating_avg,secondary_consumption_score,transport_mode,public_transport_km_week,household_size,shopping_frequency,waste_generation_level
+180,120,petrol,omnivore,daily,12,low,2.1,8,car,10,3,high,high
+95,45,hybrid,pescatarian,weekly,4,medium,3.4,5,car,15,2,moderate,moderate
+70,12,na,vegetarian,none,0,high,4.2,2,active,0,1,low,low
+220,85,diesel,omnivore,weekly,20,low,2.7,7,car,20,4,high,moderate
+130,60,na,vegetarian,rarely,2,high,3.8,3,rail,10,2,moderate,low
+105,30,na,vegan,none,0,high,4.5,1,public_bus,20,1,low,low
+160,100,petrol,omnivore,daily,30,medium,2.5,9,motorcycle,5,3,high,high
+85,25,na,pescatarian,rarely,6,medium,3.6,4,rail,5,2,moderate,moderate
