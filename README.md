@@ -122,4 +122,3 @@ The tests cover valid and invalid/missing lifestyle inputs, carbon category and 
 ## Next phase
 
 After validating the factor sources and collecting an appropriately governed dataset, the next phase can add a documented K-Means behavioral-clustering pipeline, recommendation ranking, feedback/longitudinal evaluation, and eventually a separate API/frontend architecture. Those features are not part of this prototype.
-
